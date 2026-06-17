@@ -1,2 +1,15 @@
-# credit-risk-analyzer
-AI-powered credit risk assessment system using Python and Streamlit
+# Credit Risk Analyzer
+
+Analyze loan applicants and assess credit risk.
+
+## Features
+
+- Credit Risk Classification
+- Loan-to-Income Analysis
+- Risk Visualization
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Scikit-learn
